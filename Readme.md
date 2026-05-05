@@ -21,8 +21,14 @@ Volunteer
 
 Members
 Rahul Gautam - 2315510164 Task :- UI and Research 
+
+
 Madhav Gupta - 2315001277 Task :- Backend and DataBase
+
+
 Priyanshu nayak - 2315510154 Task :- UI Dashboard with Map
+
+
 Khushi Gangwar -2315510100 Task: -Backend and WebSocket
 
 A full-stack real-time disaster response platform with role-based dashboards for Citizens, Volunteers, and Authorities. Built with React, Spring Boot, PostgreSQL, and WebSocket (STOMP).
