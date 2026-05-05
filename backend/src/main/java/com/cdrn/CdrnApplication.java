@@ -1,0 +1,13 @@
+package com.cdrn;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CdrnApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(CdrnApplication.class, args);
+    }
+
+}
