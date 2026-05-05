@@ -1,0 +1,12 @@
+com\cdrn\repository\TaskRepository.class
+com\cdrn\config\WebSocketConfig.class
+com\cdrn\repository\UserRepository.class
+com\cdrn\CdrnApplication.class
+com\cdrn\entity\User.class
+com\cdrn\entity\Task.class
+com\cdrn\entity\IncidentReport.class
+com\cdrn\controller\AuthController.class
+com\cdrn\controller\IncidentController.class
+com\cdrn\repository\IncidentRepository.class
+com\cdrn\config\SecurityConfig.class
+com\cdrn\controller\TaskController.class
